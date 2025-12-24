@@ -2,6 +2,8 @@
 
 A comprehensive, production-ready collection of FHEVM (Fully Homomorphic Encryption Virtual Machine) examples demonstrating privacy-preserving smart contracts. Includes automation tools for generating standalone example repositories, complete base template, and extensive documentation.
 
+[Video](https://youtu.be/fhHUPXwRvUc)
+
 ## Project Overview
 
 This project provides a complete ecosystem for building, testing, and deploying FHEVM applications:
