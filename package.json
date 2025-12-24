@@ -1,0 +1,23 @@
+{
+  "name": "confidential-artifact-auction",
+  "version": "1.0.0",
+  "description": "A decentralized auction platform for authentic artifacts using encrypted bidding",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server . -p 3000 -c-1 --cors",
+    "build": "echo 'Static build complete'",
+    "start": "npx http-server . -p 8080 -c-1 --cors"
+  },
+  "keywords": [
+    "blockchain",
+    "auction",
+    "ethereum",
+    "fhe",
+    "artifacts",
+    "confidential"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
